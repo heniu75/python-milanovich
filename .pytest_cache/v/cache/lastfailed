@@ -1,3 +1,5 @@
 {
+  "test_SampleFunctions.py::TestSampleFunctions::test_my_py_test": true,
+  "test_SampleFunctions.py::test_my_py_test": true,
   "test_sample.py::MyTest::test": true
 }
