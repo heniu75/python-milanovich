@@ -37,6 +37,6 @@ else:
 a = 2
 b = 4
 out = "bigger" if a > b else "smaller"
-print(f"a ({a}) is {out} than b {b}")
+print(f"Ternary operator test: a ({a}) is {out} than b {b}")
 
 
