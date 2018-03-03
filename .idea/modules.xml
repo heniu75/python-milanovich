@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pearango.online/.idea/pearango.online.iml" filepath="$PROJECT_DIR$/../pearango.online/.idea/pearango.online.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-milanovich.iml" filepath="$PROJECT_DIR$/.idea/python-milanovich.iml" />
     </modules>
   </component>

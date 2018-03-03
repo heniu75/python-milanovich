@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venvmac" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.6 (python-milanovich)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Remote Python 3.5.2 (sftp://root@mx.pearango.online:22/usr/bin/python3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pearango.online" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />

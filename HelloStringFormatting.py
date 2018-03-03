@@ -14,6 +14,6 @@ print(" 7.  Replacing e with a ... " + msg.replace("e", "a"))
 csvValues = "some, csv, values"
 splitValues = csvValues.split(",")
 
-
 # string formatting in python3:
 print(f"Illustrating python 3 formatting: {splitValues[0]}, {splitValues[1]}, {splitValues[2]}")
+

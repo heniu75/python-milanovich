@@ -40,3 +40,5 @@ out = "bigger" if a > b else "smaller"
 print(f"Ternary operator test: a ({a}) is {out} than b {b}")
 
 
+
+
